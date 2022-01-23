@@ -30,4 +30,3 @@ const cars = new Vechiles('BMW','M35i',2022,false,true)
 cars.isFast(true)
 cars.isGreen()
 
-table = document.createElement('ul')
